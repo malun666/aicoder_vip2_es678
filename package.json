@@ -1,0 +1,24 @@
+{
+  "name": "aicoder_vip2_es678",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docsify serve -p 30002 -P 30003 ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malun666/aicoder_vip2_es678.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malun666/aicoder_vip2_es678/issues"
+  },
+  "homepage": "https://github.com/malun666/aicoder_vip2_es678#readme"
+}
