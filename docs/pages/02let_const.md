@@ -195,7 +195,7 @@ window.c; // => undefined
 var b = 9;
 window.b; // => 9
 ```
-
+ 
 ## 总结
 
 es6 的语法的确简单方便，要勇敢的拥抱 es6 而不是排斥。
